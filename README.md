@@ -36,6 +36,18 @@ the custom analysis plugin to its menu system.
 
 To use the plugins, load the datacute (hyperspectral image) and follow these steps:
 
+### Step 1:
+![Visualization of Plugin](images/plug1.png)
+
+### Step 2:
+![Visualization of Plugin](images/plug2.png)
+
+### Step 3:
+![Visualization of Plugin](images/plug3.png)
+
+### Step 4:
+![Visualization of Plugin](images/plug4.png)
+
 
 
 ## Contributing
