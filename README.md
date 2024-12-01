@@ -39,13 +39,13 @@ To use the plugins, load the datacute (hyperspectral image) and follow these ste
 ### Step 1: Plugin options
 ![Visualization of Plugin](images/plug1.png)
 
-### Step 2:
+### Step 2: No Normalization
 ![Visualization of Plugin](images/plug2.png)
 
-### Step 3:
+### Step 3: Normal Normalization
 ![Visualization of Plugin](images/plug3.png)
 
-### Step 4:
+### Step 4: StandardScalar Normalization
 ![Visualization of Plugin](images/plug4.png)
 
 
