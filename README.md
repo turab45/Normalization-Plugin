@@ -12,7 +12,7 @@ This project focuses on the normalization of hyperspectral image datacubes. Desi
 
 ### Requirements
 
-- Python 3.8 or higher
+- Python 3.10 or higher
 - The following Python libraries:
     - `numpy`
     - `Spectronon Software`
@@ -36,7 +36,7 @@ the custom analysis plugin to its menu system.
 
 To use the plugins, load the datacute (hyperspectral image) and follow these steps:
 
-### Step 1:
+### Step 1: Plugin options
 ![Visualization of Plugin](images/plug1.png)
 
 ### Step 2:
